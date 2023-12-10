@@ -1,2 +1,4 @@
-# app-dev
-My first repository
+# My favorite Series
+- One Piece
+- Spy Family
+- Demon Slayer
